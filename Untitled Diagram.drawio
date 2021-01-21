@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T10:59:40.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yPghPf007GL1RibRTpHa" version="14.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-21T11:01:41.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="fFW-cVhUamWr7XMwZgH6" version="14.2.6" type="github" pages="2">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1490" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
         <mxCell id="dO0ixOxeFp3Ikk_sjbO7-0" style=";html=1;" />
         <mxCell id="dO0ixOxeFp3Ikk_sjbO7-1" style=";html=1;" parent="dO0ixOxeFp3Ikk_sjbO7-0" />
         <mxCell id="dO0ixOxeFp3Ikk_sjbO7-2" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=none;strokeWidth=2;fillColor=#009BFF;fontSize=20;fontColor=#FFFFFF;align=center;arcSize=3;verticalAlign=top;spacingTop=4;" vertex="1" parent="dO0ixOxeFp3Ikk_sjbO7-1">
-          <mxGeometry x="240" y="146.5" width="1490" height="813.5" as="geometry" />
+          <mxGeometry x="240" y="70" width="1490" height="890" as="geometry" />
         </mxCell>
         <mxCell id="dO0ixOxeFp3Ikk_sjbO7-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#0072BC;fontSize=12;fontColor=#FFFFFF;align=center;strokeColor=none;arcSize=3;verticalAlign=top;" vertex="1" parent="dO0ixOxeFp3Ikk_sjbO7-1">
           <mxGeometry x="1406" y="220" width="254" height="500" as="geometry" />
@@ -499,6 +499,9 @@
         </mxCell>
         <mxCell id="dO0ixOxeFp3Ikk_sjbO7-187" value="CNCF" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=none;fontSize=18;align=center;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="dO0ixOxeFp3Ikk_sjbO7-1">
           <mxGeometry x="1180" y="630" width="79" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dO0ixOxeFp3Ikk_sjbO7-189" value="云原生的交易系统技术架构" style="rounded=1;whiteSpace=wrap;html=1;align=center;shadow=1;sketch=0;glass=1;fontStyle=1;fontSize=18;labelBorderColor=none;fontColor=#000033;fillColor=#FF0000;" vertex="1" parent="dO0ixOxeFp3Ikk_sjbO7-1">
+          <mxGeometry x="827.13" y="110" width="452.87" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
